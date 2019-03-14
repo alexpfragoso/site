@@ -1768,27 +1768,18 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #ff3366, #45505b) !important;
 }
-.cid-rkD9yeq6N4 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #331557;
-}
-.cid-rkD9yeq6N4 .mbr-section-subtitle {
-  color: #363199;
-}
-.cid-rkD9yeq6N4 H2 {
-  color: #331557;
-}
-.cid-rkD9yeq6N4 .mbr-section-subtitle B {
-  color: #b258ef;
-}
-.cid-rkD9yeq6N4 B {
-  color: #ffffff;
-}
 .cid-rkDKtyou9T {
   padding-top: 105px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/dsc02200-2000x1208.jpg");
+}
+.cid-rkEa9JmFI3 {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background: linear-gradient(45deg, #94eaed, #331557);
+}
+.cid-rkEa9JmFI3 .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rkDKhc07m2 {
   padding-top: 75px;
